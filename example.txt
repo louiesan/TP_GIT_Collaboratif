@@ -1,2 +1,3 @@
 "TP de Genie logicie /n Decouverte de git /n Git est un system de gestion de version" 
 "Git permet de travailler en eequipe /n git facilite le suivi des modification " 
+"Nouvelle foctionalite: getion des branches /n Cette modification est realisee dans la branche feature"  
