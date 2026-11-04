@@ -1,1 +1,2 @@
 "TP de Genie logicie /n Decouverte de git /n Git est un system de gestion de version" 
+"Git permet de travailler en eequipe /n git facilite le suivi des modification " 
